@@ -1,3 +1,1 @@
-This notebook seeks to better-understand the world of pinball by researching and analyzing available data. Currently, it primarily uses the [Open Pinball Database](https://opdb.org/) to look at the number of machines produced and companies in the industry. 
-
-In the future, I'd like to analyze machine popularity and scores by scraping pinball score logging applications, though Cloudflare is currently a problem. 
+This notebook seeks to better-understand the world of pinball by researching and analyzing available data. Data sources include the [Open Pinball Database](https://opdb.org/) to look at the number of machines produced and companies in the industry, [Pinball Map](https://pinballmap.com/) to identify locations with machines at present, and scraped data from [IFPA](https://www.ifpapinball.com/) for number of events at each location over the past decade as well as player counts. 
