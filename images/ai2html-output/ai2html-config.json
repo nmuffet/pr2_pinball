@@ -1,0 +1,16 @@
+{
+    "fonts":[
+        {
+            "aifont": "IBMPlexSans-Regular",
+            "family": "IBM Plex Sans",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "IBMPlexSans-Bold",
+            "family": "IBM Plex Sans",
+            "weight": "700",
+            "style": ""
+        }
+    ]
+}
